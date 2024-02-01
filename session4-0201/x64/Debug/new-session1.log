@@ -1,0 +1,4 @@
+﻿  new-session1.cpp
+D:\docs\dlsu\3RD-YR_2NDTERM\GDGRAP1\session\session-notes-gdgrap1\new-session1\new-session1.cpp(229,55): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  new-session1.vcxproj -> D:\docs\dlsu\3RD-YR_2NDTERM\GDGRAP1\session\session-notes-gdgrap1\new-session1\x64\Debug\new-session1.exe
