@@ -1,6 +1,6 @@
 #NEW REPOSITORY FOR GDGRAP1
 
-assignment1 | Last Modified: January 16, 2024 (same date as first attempt from the old repository
+assignment1 | Last Modified: January 16, 2024 (contains same files from the first attempt in old repository)
 
 session4-0201 | Last Modified: February 1, 2024
 
